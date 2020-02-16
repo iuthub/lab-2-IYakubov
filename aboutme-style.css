@@ -1,0 +1,58 @@
+body{
+background-color:#0BAEFF;
+}
+#abt{
+
+	color: #0BAEFF;
+	border: dashed;
+font-family: Caesar Dressing;
+font-size: 40px;
+border-width: 5px;
+padding: 10px;
+margin: 20 auto;
+
+}
+#ho{
+	display:none;
+}
+#al:hover p{
+  display: block;
+}
+#lol{
+	margin:auto 10px;
+}
+#my{
+	font-family: Allan;
+	font-size: 20px;
+	color: black;
+	font-weight: bold;
+}
+#my1{
+	font-family: Aladin;
+	color: #00D1FF;
+	font-size: 50px;
+}
+#al:first-letter {
+
+    font-size: 45px;
+    font-weight: bold;
+    
+}
+#box{
+	font-size: 30px;
+	font-family: Amatic SC;
+	font-weight: bold;
+}
+#hap{
+border-radius: 500px;
+height: 312px;
+width: 312px;
+}
+#a{
+	font-size: 60px;
+}
+#all{
+	border: hidden;
+	background-color: white;
+	margin: auto 160px;
+}
